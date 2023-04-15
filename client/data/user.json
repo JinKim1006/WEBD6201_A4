@@ -1,0 +1,25 @@
+{
+  "users": [
+
+    {
+      "DisplayName": "Harry Potter",
+      "EmailAddress" : "harry@dcmail.ca",
+      "Username" : "potterHarry",
+      "Password" : "123456"
+    },
+
+    {
+      "DisplayName": "Tom Riddle",
+      "EmailAddress" : "tom@dcmail.ca",
+      "Username" : "riddleTom",
+      "Password" : "987654"
+    },
+
+    {
+      "DisplayName": "Jin Kim",
+      "EmailAddress" : "jin@dcmail.ca",
+      "Username" : "kimJin",
+      "Password" : "029384"
+    }
+  ]
+}
